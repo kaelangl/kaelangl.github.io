@@ -5,10 +5,10 @@ body {
     sans-serif; */
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
-  /* background-image: url('lemonlime.png');
-  background-size: cover; */
+  background-image: url('ok.png');
+  background-size: cover;
   /* font-family: 'Cloister'; */
-  background-size: 600px;
+  /* background-size: 55vw; */
   background-repeat: repeat;
   
 }
