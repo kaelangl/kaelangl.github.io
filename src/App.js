@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="main">
-      <audio src="LL.wav" preload id="audio_player"/>
+      <audio src="radio_signal_acquired.wav" preload id="audio_player"/>
       {/* <Player songs={songs} setSongs={setSongs} isPlaying={isPlaying} setIsPlaying={setIsPlaying} /> */}
       <div className="box1">
         <div className="box3"></div>
