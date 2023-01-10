@@ -48,7 +48,6 @@ function App() {
       <audio src="radio_signal_acquired.wav" preload id="audio_player"/>
       {/* <Player songs={songs} setSongs={setSongs} isPlaying={isPlaying} setIsPlaying={setIsPlaying} /> */}
       <div className="box1">
-        <div className="box3"></div>
         <img className="box2" src="postbox.png"></img>
       </div>
     </div>
