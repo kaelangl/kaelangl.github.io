@@ -52,8 +52,8 @@ img {
 .box2 {
   /* border: 1px solid green; */
   /* min-height: 8vh; */
-  max-height: 10vh;
-  max-width: 10vw;
+  max-height: 7vh;
+  max-width: 7vw;
   align-items: center;
   justify-content: center;
   background: transparent;
